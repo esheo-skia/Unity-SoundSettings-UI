@@ -1,4 +1,3 @@
-```markdown
 # Unity Sound Settings UI – Functional UGUI Mini Project  
 
 ![Demo](./images/demo.gif)
@@ -50,7 +49,6 @@ public void OnVolumeChanged(float value)
     int percent = Mathf.RoundToInt(value * 100f);
     volumeText.text = percent + "%";
 }
-```
 
 ### Reset Function Example
 ```csharp
@@ -118,4 +116,3 @@ GitHub: https://github.com/esheo-skia
 
 A clean, functional UI demo showcasing how to build  
 **event-driven, production-ready interface systems** in Unity.
-```
