@@ -106,11 +106,11 @@ Assets/
 
 ## 🧑‍💻 Author
 
-**Eunseo Heo (esheo-skia)**  
+**Eunseo Heo (esheo-skia)**<br>
+*Software Developer — Imaging Tools & Automation*
 
-Contact: **heunseo1787@gmail.com**  
-
-GitHub: **https://github.com/esheo-skia**
+* **Contact:** [heunseo1787@gmail.com]
+* **GitHub:** [https://github.com/esheo-skia]
 
 ---
 
