@@ -106,9 +106,11 @@ Assets/
 
 ## 🧑‍💻 Author
 
-**Eunseo Heo**  
-AI Engineer · UI/UX Tool Developer · Unity Enthusiast  
-GitHub: https://github.com/esheo-skia
+**Eunseo Heo (esheo-skia)**  
+
+Contact: **heunseo1787@gmail.com**  
+
+GitHub: **https://github.com/esheo-skia**
 
 ---
 
