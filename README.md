@@ -49,6 +49,7 @@ public void OnVolumeChanged(float value)
     int percent = Mathf.RoundToInt(value * 100f);
     volumeText.text = percent + "%";
 }
+```
 
 ### Reset Function Example
 ```csharp
@@ -67,17 +68,18 @@ Focused on **clarity, maintainability, and modular event-driven UI logic**.
 
 ```
 Assets/
-  Audio/
-  Background.png
-  Btn_CloseGraphic.png
-  button.png
-  panel.png
-  Scenes/
-    SampleScene.unity
-  Scripts/
-    SoundPageController.cs
-  Settings/
-  TextMesh Pro/
+│
+├── Audio/                     # Audio resources
+├── Scenes/
+│   └── SampleScene.unity      # Main demo scene
+├── Scripts/
+│   └── SoundPageController.cs # Core logic script
+├── Settings/
+├── TextMesh Pro/
+├── Background.png
+├── Btn_CloseGraphic.png
+├── button.png
+└── panel.png
 ```
 
 ---
@@ -109,8 +111,14 @@ Assets/
 **Eunseo Heo (esheo-skia)**<br>
 *Software Developer — Imaging Tools & Automation*
 
-* **Contact:** [heunseo1787@gmail.com]
-* **GitHub:** [https://github.com/esheo-skia]
+* **Contact:** [heunseo1787@gmail.com](mailto:heunseo1787@gmail.com)
+* **GitHub:** [https://github.com/esheo-skia](https://github.com/esheo-skia)
+
+---
+
+## License
+
+Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
 
 ---
 
